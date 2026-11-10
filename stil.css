@@ -1,0 +1,17 @@
+:root { color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #101116; color: #f2f3f7; font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; padding: 16px; }
+.kopf, main { max-width: 680px; margin: 0 auto; }
+.kopf { background: linear-gradient(120deg, #3f6fd8 0%, #8a5fd6 55%, #d9598f 100%); border-radius: 22px; padding: 28px 24px; margin-bottom: 14px; }
+.kopf h1 { margin: 0 0 6px; font-size: 32px; }
+.kopf p { margin: 0; color: #ffffffe0; }
+.kopf a { color: #fff; }
+.karte { background: #1b1d25; border-radius: 18px; padding: 18px 20px; margin-bottom: 12px; }
+.karte h2 { margin: 14px 0 6px; font-size: 19px; }
+.karte h2:first-child { margin-top: 0; }
+.karte p { margin: 0 0 10px; }
+.en { color: #9a9daa; }
+a { color: #8fb6ff; }
+code { background: #2a2d38; padding: 1px 6px; border-radius: 6px; font-size: 14px; }
+.links { text-align: center; margin: 20px 0 6px; }
+.klein { text-align: center; color: #9a9daa; font-size: 14px; }
